@@ -1,0 +1,24 @@
+.
+├── app
+│   ├── dashboard
+│   │   ├── admin
+│   │   ├── customer
+│   │   └── master
+│   ├── globals.css
+│   ├── layout.tsx
+│   ├── login
+│   │   └── page.tsx
+│   ├── page.tsx
+│   └── signup
+│       ├── customer
+│       └── master
+├── next-env.d.ts
+├── next.config.js
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── project_structure.txt
+├── tailwind.config.js
+└── tsconfig.json
+
+10 directories, 12 files
